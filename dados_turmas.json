@@ -1,0 +1,36 @@
+{
+    "turmas": [
+      {
+        "nome": "A",
+        "disciplinas": [
+          {
+            "nome": "Matemática",
+            "horario": "Segunda e Quarta, 8:00-10:00"
+          },
+          {
+            "nome": "Gramática",
+            "horario": "Terça e Quinta, 14:00-16:00"
+          }
+        ]
+      },
+      {
+        "nome": "B",
+        "disciplinas": [
+          {
+            "nome": "Biologia",
+            "horario": "Terça e Quinta, 9:30-11:30"
+          }
+        ]
+      },
+      {
+        "nome": "C",
+        "disciplinas": [
+          {
+            "nome": "Física",
+            "horario": "Segunda e Sexta, 10:00-12:00"
+          }
+        ]
+      }
+    ]
+  }
+  

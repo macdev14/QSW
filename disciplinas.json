@@ -1,0 +1,94 @@
+{
+  "disciplinas": [
+    {
+      "nome": "Matemática",
+      "turmas": [
+        {
+          "id": "A",
+          "horario_inicio": "19:00",
+          "horario_fim": "20:00"
+        },
+        {
+          "id": "B",
+          "horario_inicio": "20:00",
+          "horario_fim": "22:00"
+        }
+      ],
+      "pre_requisitos": []
+    },
+    {
+      "nome": "Biologia",
+      "turmas": [
+        {
+          "id": "A",
+          "horario_inicio": "19:00",
+          "horario_fim": "20:00"
+        },
+        {
+          "id": "B",
+          "horario_inicio": "20:00",
+          "horario_fim": "22:00"
+        }
+      ],
+      "pre_requisitos": [],
+      "horario_inicio": "19:00",
+      "horario_fim": "20:00"
+    },
+    {
+      "nome": "Física",
+   
+      "pre_requisitos": [
+        "Matemática"
+      ],
+      "turmas": [
+        {
+          "id": "A",
+          "horario_inicio": "19:00",
+          "horario_fim": "20:00"
+        },
+        {
+          "id": "B",
+          "horario_inicio": "20:00",
+          "horario_fim": "22:00"
+        }
+      ]
+
+    },
+    {
+      "nome": "Gramática",
+      "turmas": [
+        {
+          "id": "A",
+          "horario_inicio": "19:00",
+          "horario_fim": "20:00"
+        },
+        {
+          "id": "B",
+          "horario_inicio": "20:00",
+          "horario_fim": "22:00"
+        }
+      ],
+      "pre_requisitos": [],
+      "horario_inicio": "19:00",
+      "horario_fim": "20:00"
+    },
+    {
+      "nome": "Química",
+      "turmas": [
+        {
+          "id": "A",
+          "horario_inicio": "19:00",
+          "horario_fim": "20:00"
+        },
+        {
+          "id": "B",
+          "horario_inicio": "20:00",
+          "horario_fim": "22:00"
+        }
+      ],
+      "pre_requisitos": [
+        "Biologia"
+      ]
+    }
+  ]
+}

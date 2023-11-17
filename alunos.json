@@ -1,0 +1,29 @@
+{
+    "aluno": {
+      "nome": "João Silva",
+      "id": "12345",
+      "disciplinas_matriculadas": [
+        {
+          "nome": "Matemática",
+          "turma": "A"
+        },
+        {
+          "nome": "Biologia",
+          "turma": "B"
+        }
+      ],
+      "disciplinas_cursadas": [
+        {
+          "nome": "Física",
+          "turma": "C"
+      
+        },
+        {
+          "nome": "Gramática",
+          "turma": "A"
+      
+        }
+      ]
+    }
+  }
+  
